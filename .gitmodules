@@ -1,3 +1,3 @@
-[submodule "src/bb-library/Payment/Adapter/paymentwall-php"]
+[submodule "src/bb-library/Payment/Adapter/lib/paymentwall-php"]
 	path = src/bb-library/Payment/Adapter/lib/paymentwall-php
 	url = git@github.com:paymentwall/paymentwall-php.git
